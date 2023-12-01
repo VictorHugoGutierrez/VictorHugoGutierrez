@@ -1,16 +1,37 @@
-### Hi there 👋
+# Olá, meu nome é Victor Hugo Gutierrez
 
-<!--
-**VictorHugoGutierrez/VictorHugoGutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aqui é onde compartilho meus aprendizados e projetos.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou constantemente aprendendo e me aprimorando em Desenvolvimento Full-Stack.
+- 📚 Estudante do Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas na Escola Técnica Estadual Polivalente de Americana.
+- 💬 Estou aberto a colaborações e discussões sobre projetos interessantes. Fique à vontade para entrar em contato comigo!
+- 💡 Em breve, planejo iniciar minha jornada acadêmica no ensino superior em Ciências da Computação.
+
+## Linguagens
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>         
+</div>
+
+## Links
+
+<div>
+  <a href="https://www.linkedin.com/in/victor-hugo-gutierrez/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30">
+  </a>
+  <a href="https://github.com/VictorHugoGutierrez/Settings-VSCode">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30">
+  </a>
+  <a href="mailto:hugovictorgutierrez@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30">
+  </a>
+</div>
