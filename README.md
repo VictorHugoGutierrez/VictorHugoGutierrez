@@ -25,13 +25,13 @@
 ## Links
 
 <div>
-  <a href="https://www.linkedin.com/in/victor-hugo-gutierrez/">
+  <a href="https://www.linkedin.com/in/victor-hugo-gutierrez/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30">
   </a>
-  <a href="https://github.com/VictorHugoGutierrez/Settings-VSCode">
+  <a href="https://github.com/VictorHugoGutierrez/Settings-VSCode" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30">
   </a>
-  <a href="mailto:hugovictorgutierrez@gmail.com">
+  <a href="mailto:hugovictorgutierrez@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30">
   </a>
 </div>
