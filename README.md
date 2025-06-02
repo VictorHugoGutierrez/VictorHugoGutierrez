@@ -5,7 +5,7 @@
 ## Sobre Mim
 
 - 🌱 Estou constantemente aprendendo e me aprimorando em Desenvolvimento Full-Stack.
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas e formado no Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas na Escola Técnica Estadual Polivalente de Americana.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas no IFSP campus de Campinas e formado no Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas na Escola Técnica Estadual Polivalente de Americana.
 - 👨🏻‍💻 Atualmente sou Desenvolvedor Jr na Novara Sistemas.
 - 💬 Estou aberto a colaborações e discussões sobre projetos interessantes. Fique à vontade para entrar em contato comigo!
 
@@ -18,8 +18,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>         
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"  width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40"/>
 </div>
 
 ## Links
