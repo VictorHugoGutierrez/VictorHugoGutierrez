@@ -5,8 +5,8 @@
 ## Sobre Mim
 
 - 🌱 Estou constantemente aprendendo e me aprimorando em Desenvolvimento Full-Stack.
-- 📚 Estudante de Ciências da Computação e formado no Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas na Escola Técnica Estadual Polivalente de Americana.
-- 👨🏻‍💻 Atualmente sou Desenvolvedor de Sistemas na Qiron Intelligence.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas e formado no Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas na Escola Técnica Estadual Polivalente de Americana.
+- 👨🏻‍💻 Atualmente sou Desenvolvedor Jr na Novara Sistemas.
 - 💬 Estou aberto a colaborações e discussões sobre projetos interessantes. Fique à vontade para entrar em contato comigo!
 
 ## Linguagens
