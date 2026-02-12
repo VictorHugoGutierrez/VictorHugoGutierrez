@@ -38,4 +38,7 @@
   <a href="mailto:hugovictorgutierrez@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30">
   </a>
+  <a href="https://victorhugogutierrez.vercel.app" target="_blank">
+    <img src="https://victorhugogutierrez.vercel.app/favicon.ico" width="30">
+  </a>
 </div>
